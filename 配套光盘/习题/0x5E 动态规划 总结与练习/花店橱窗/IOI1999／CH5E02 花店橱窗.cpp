@@ -1,4 +1,3 @@
-//Author:XuHt
 #include <cstdio>
 #include <iostream>
 using namespace std;
